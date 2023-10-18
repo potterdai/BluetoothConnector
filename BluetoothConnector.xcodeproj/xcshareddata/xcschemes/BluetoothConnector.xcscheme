@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "4F229AB9243CC29500B1784C"
-               BuildableName = "Bluesnooze.app"
-               BlueprintName = "Bluesnooze"
-               ReferencedContainer = "container:Bluesnooze.xcodeproj">
+               BuildableName = "BluetoothConnector.app"
+               BlueprintName = "BluetoothConnector"
+               ReferencedContainer = "container:BluetoothConnector.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4F229AB9243CC29500B1784C"
-            BuildableName = "Bluesnooze.app"
-            BlueprintName = "Bluesnooze"
-            ReferencedContainer = "container:Bluesnooze.xcodeproj">
+            BuildableName = "BluetoothConnector.app"
+            BlueprintName = "BluetoothConnector"
+            ReferencedContainer = "container:BluetoothConnector.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "4F229AB9243CC29500B1784C"
-            BuildableName = "Bluesnooze.app"
-            BlueprintName = "Bluesnooze"
-            ReferencedContainer = "container:Bluesnooze.xcodeproj">
+            BuildableName = "BluetoothConnector.app"
+            BlueprintName = "BluetoothConnector"
+            ReferencedContainer = "container:BluetoothConnector.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
